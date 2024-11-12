@@ -1,0 +1,154 @@
+.cat-list {
+    font-size: 20px;
+    text-align: center;
+}
+
+.cat-list > a {
+    text-decoration: none;
+    font-size: 22px;
+    padding: 50px;
+    color: #f59421;
+}
+
+.cat-list a:hover {
+    text-decoration: underline;
+}
+
+.top {
+    background-color: #1e0c02;
+    color: #f59421;
+    text-decoration: none;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+    padding: 10px;
+    color: #f59421;
+}
+
+.casual1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.casual1 img {
+    width: 23em;
+    height: 25em;
+    padding: 40px;
+}
+
+.casual2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.casual2 img {
+    width: 23em;
+    height: 25em;
+    padding: 40px;
+}
+
+.formal1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.formal1 img {
+    width: 23em;
+    height: 25em;
+    padding: 40px;
+}
+
+.formal2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.formal2 img {
+    width: 23em;
+    height: 25em;
+    padding: 40px;
+}
+
+.dress1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.dress1 img {
+    width: 23em;
+    height: 25em;
+    padding: 40px;
+}
+
+.dress2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.dress2 img {
+    width: 23em;
+    height: 25em;
+    padding: 40px;
+}
+
+.islamic1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.islamic1 img {
+    width: 23em;
+    height: 25em;
+    padding: 40px;
+}
+
+.islamic2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.islamic2 img {
+    width: 23em;
+    height: 25em;
+    padding: 40px;
+}
+
+.traditional1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.traditional1 img {
+    width: 23em;
+    height: 25em;
+    padding: 40px;
+}
+
+.traditional2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.traditional2 img {
+    width: 23em;
+    height: 25em;
+    padding: 40px;
+}
+
+p {
+    color: #f59421;
+    font-size: 18px;
+}
