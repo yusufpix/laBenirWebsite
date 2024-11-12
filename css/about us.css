@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-size: 35px;
+    color: #f59421;
+}
+
+.story {
+    font-size: 20px;
+    margin: 50px;
+    color: #f59421;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.img img {
+    width: 22em;
+    height: 25em;
+}
+
+.quote {
+    text-align: center;
+}
